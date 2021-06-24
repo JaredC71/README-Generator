@@ -24,7 +24,10 @@ in the command line, simply run node (name of your js file) and then boom! Your 
 node index.js
 ## Questions
 if you have any additional questions, please contact me using the following links below:
+
 Github: [https://github.com/JaredC71](https://github.com/JaredC71)
+
+Link to WalkThrough: [https://drive.google.com/file/d/1LhWGZW3eO00r5J1U0YnrXwxtzpwZO7kw/view](https://drive.google.com/file/d/1LhWGZW3eO00r5J1U0YnrXwxtzpwZO7kw/view)
  
 Email Adress: jaredcolletti123@gmail.com 
 ## License 
